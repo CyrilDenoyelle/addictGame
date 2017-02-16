@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CyrilDenoyelle/addictGame/issues"
   },
-  "homepage": "https://github.com/CyrilDenoyelle/addictGame#readme"
+  "homepage": "https://github.com/CyrilDenoyelle/addictGame#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "phaser": "^2.6.2"
+  }
 }
